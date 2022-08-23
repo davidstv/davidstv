@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @davidstv
-- 👀 I’m interested in making websites
-- 🌱 I’m currently learning more JS to reach future goals
-- 📫 You can reach me on my discord: David's Creation#2007
+Hey, I'm David I like to make websites, and I'm also the lead developer of vyond remastered. 
+
+![github stats](https://github-readme-stats.vercel.app/api?username=davidstv&count_private=true&show_icons=true&theme=nightowl)
+![top](https://github-readme-stats.vercel.app/api/top-langs/?username=davidstv&theme=nightowl)
 
 <!---
 davidstv/davidstv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
